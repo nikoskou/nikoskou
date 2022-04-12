@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikoskou
 - 👀 I’m interested in 👨‍🎓learning and 👨‍🏫teaching all things 👨‍💻coding related! 
-- 🌱 I’m currently learning 🐍Python, ☕Java, Hadoop and anything I stumble upon along the way! 
+- 🌱 I’m currently learning 🐍Python, Hadoop and anything I stumble upon along the way!
 - 📫 How to reach me: nick.kountour@gmail.com or m.me/nick.kountour
 
 <!---
